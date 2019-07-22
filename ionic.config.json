@@ -1,5 +1,7 @@
 {
   "name": "MBAcam",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
